@@ -3,15 +3,14 @@ basics needed to be able to play other wargames.
 
 ### Level 0
 
-- This is straight forward
+- Level 0 can be accomplished by using built in command for ssh and specifying user and -p flag for custom port. By default ssh uses port TCP 22, so in this case we had to use -p flag to specify given port 2220
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f57d6da6-dbae-4063-877d-64dc245f90c9/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ce152b59-6f5a-4916-a0c2-65c2da59b712/Untitled.png)
+![image](https://user-images.githubusercontent.com/85706972/150797220-60c2f344-98c9-40e2-9a6a-a507f218f287.png)
 
 We have successfully logged in as “bandit0”
 
-By default ssh uses port TCP 22, so in this case we had to use -p flag to specify given port 2220
+![image](https://user-images.githubusercontent.com/85706972/150797633-7aab5ecc-9b64-499d-8e0a-62e876a7d454.png)
+
 
 We can move into next challenge leve1
 
