@@ -1,9 +1,13 @@
 The Bandit wargame is aimed at absolute beginners. It will teach the
 basics needed to be able to play other wargames.
+This is my very first write-up and expierience putting something online on Github
+Let me know if any of challenges could be achieve otherwise...hope you liked my way :) 
 
-### Level 0
+### Intro to Bandit
 
-- Level 0 can be accomplished by using built in command for ssh and specifying user and -p flag for custom port. By default ssh uses port TCP 22, so in this case we had to use -p flag to specify given port 2220
+The password for the next level is stored in a file called readme located in the home directory. Use this password to log into bandit1 using SSH. Whenever you find a password for a level, use SSH (on port 2220) to log into that level and continue the game.
+
+- This level can be accomplished by using built in command for ssh and specifying user and -p flag for custom port. By default ssh uses port TCP 22, so in this case we had to use -p flag to specify given port 2220
 
 ![image](https://user-images.githubusercontent.com/85706972/150797220-60c2f344-98c9-40e2-9a6a-a507f218f287.png)
 
@@ -11,24 +15,22 @@ We have successfully logged in as “bandit0”
 
 ![image](https://user-images.githubusercontent.com/85706972/150797633-7aab5ecc-9b64-499d-8e0a-62e876a7d454.png)
 
-
 We can move into next challenge leve1
 
 ### Level 0
+The password for the next level is stored in a file called readme located in the home directory. Use this password to log into bandit1 using SSH. Whenever you find a password for a level, use SSH (on port 2220) to log into that level and continue the game.
 
 - First start off by locating the password file name “readme”
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fca18c20-bf6c-4af3-94b3-dd6c65d598d8/Untitled.png)
+![image](https://user-images.githubusercontent.com/85706972/150798976-ce684c5a-b7ff-4583-8db5-e5a4cfe2bde6.png)
 
 We have found two files and task says that it’s one home directory of bandit0, so let’s cat it out and use it to access the bandit1 user with password found
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a7d05286-e202-498b-9f72-65c1367f2c0f/Untitled.png)
+![image](https://user-images.githubusercontent.com/85706972/150799330-402fa6a5-12bc-4f13-8dad-45d4bd44dc02.png)
 
-We now can exit the bandit0 ssh connection and spin up new connection for bandit1 with same way as we did for Bandit0
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a9402072-54de-41c8-a4d1-9135636ac06b/Untitled.png)
 
-Let’s move now to Level 2
+
 
 ### Level 1
 
