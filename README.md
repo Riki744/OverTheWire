@@ -2,7 +2,7 @@
 
 Official writeup from Wargames challenge: 
  
-- [x] Bandit
+- [x] Bandit - This CTF style or challenge is more like a Linux CMD line, so very good for beginners
 - [ ] Krypton
 - [ ] Natas
 - [ ] Leviathan
