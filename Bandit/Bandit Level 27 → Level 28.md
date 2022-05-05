@@ -11,8 +11,11 @@ git
 
 ## Solve ##
 <p>If this is first time using git, I recommend looking into the manpages as it will help to get better understanding of what git command can do,
-  but to solve this we simply execut following command and as we don't have write access to home we should create new folder</p>
+  but to solve this we simply execute following command and as we don't have write access to home we should create new folder</p>
   
-  
+  ![image](https://user-images.githubusercontent.com/85706972/166985211-a0cd8fa6-b6ba-4648-bed1-45678b2735f8.png)
+
+
+Password - 0ef186ac70e04ea33b4c1853d2526fa2
   
   
